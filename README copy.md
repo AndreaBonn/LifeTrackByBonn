@@ -1,0 +1,156 @@
+# 🏋🏻‍♂️ Life Tracker (PWA)
+
+Benvenuto nella pagina di presentazione del mio progetto!
+
+👉 **Visita l'app live:** [Life Tracker by Bonn](https://personal-health-by-bonn.web.app)
+
+---
+
+## ℹ️ Descrizione
+
+**Life Tracker** è una PWA completa per il monitoraggio della salute personale. Sviluppata con **HTML5, CSS3 e JavaScript vanilla**, utilizza **Firebase** per il backend, **Chart.js** per le visualizzazioni interattive e si integra con **Google Fit** e **Telegram**.
+
+L'app offre un'esperienza utente moderna e intuitiva.
+
+---
+
+## ✨ Caratteristiche Principali
+
+### 💪 Monitoraggio Completo della Salute
+- **Peso Corporeo** - Traccia il tuo peso con storico completo e grafici di andamento
+- **Parametri Vitali** - Monitora pressione sanguigna, frequenza cardiaca e glicemia
+- **Calorie e TDEE** - Calcolo automatico del fabbisogno calorico giornaliero
+- **Attività Fisica** - Tracciamento passi, sonno e workout completati
+
+### 📊 Visualizzazioni Interattive
+
+#### Grafici Trend Temporali
+Monitora l'andamento di peso, calorie, passi e sonno con grafici a linee interattivi. Filtra per settimana, mese o anno.
+
+#### Dashboard Parametri Vitali
+Visualizza pressione, frequenza cardiaca e glicemia con grafici dedicati. Clicca su ogni punto per vedere i dettagli della misurazione.
+
+#### Analisi Dieta
+Traccia acqua, caffè, alcol e sigarette con contatori giornalieri e statistiche settimanali.
+
+### 🎯 Obiettivi e Motivazione
+
+- **Peso Desiderato** - Imposta il tuo obiettivo e monitora i progressi
+- **Streak System** - Mantieni la motivazione con streak giornalieri
+- **Badge e Celebrazioni** - Sblocca riconoscimenti per obiettivi raggiunti
+- **Insights Personalizzati** - Suggerimenti basati sui tuoi dati
+
+### 🤖 Insights Intelligenti
+
+Il motore di analisi automatica ti aiuta a:
+- 📈 Identificare pattern nelle tue abitudini di salute
+- 🔍 Scoprire correlazioni tra peso, calorie e attività
+- 📅 Confrontare periodi diversi (settimana corrente vs precedente)
+- 💡 Ricevere suggerimenti personalizzati per migliorare il benessere
+
+### 🔗 Integrazioni Avanzate
+
+- **Google Fit** - Sincronizzazione automatica di passi, calorie e attività
+- **Notifiche Medicine** - Promemoria per l'assunzione di farmaci
+- **Export Dati** - Backup completo dei tuoi dati di salute
+
+### 🌍 Multilingua
+
+Interfaccia completamente tradotta in:
+- 🇮🇹 **Italiano**
+- 🇬🇧 **English**
+
+Switch istantaneo tra le lingue con traduzione automatica di tutti i messaggi.
+
+### 📱 Progressive Web App
+
+- **Installabile** - Aggiungi alla home screen come app nativa
+- **Offline First** - Funziona anche senza connessione internet
+- **Responsive Design** - Ottimizzata per mobile, tablet e desktop
+- **Performance** - Caricamento veloce e animazioni fluide
+
+---
+
+
+## 🛠️ Tecnologie Utilizzate
+
+### Frontend
+- **HTML5, CSS3, JavaScript** - Vanilla JS per massime performance
+- **Chart.js** - Libreria per grafici interattivi e responsive
+- **PWA APIs** - Service Worker, Web App Manifest, Cache API
+
+### Backend & Storage
+- **Firebase Firestore** - Database NoSQL real-time
+- **Firebase Authentication** - Sistema di autenticazione sicuro con verifica email
+- **Firebase Cloud Functions** - Serverless functions per notifiche e integrazioni
+- **Firebase Hosting** - Hosting veloce e affidabile con HTTPS
+
+### Integrazioni
+- **Google Fit API** - Sincronizzazione automatica dati fitness
+- **OAuth 2.0** - Autenticazione sicura per Google Fit
+
+### Architettura
+- **Single Page Application** - Navigazione fluida senza reload
+- **Offline First** - Persistenza locale con sincronizzazione cloud
+- **Responsive Design** - Mobile-first approach
+- **Real-time Updates** - Sincronizzazione istantanea tra dispositivi
+
+---
+
+## 🚀 Come Funziona
+
+### 1. Registrazione e Login
+Crea un account con email e password. Verifica la tua email per accedere all'app.
+
+### 2. Completa il Tuo Profilo
+Imposta informazioni personali:
+- Nome, data di nascita, genere
+- Città di residenza
+- Livello di attività fisica
+- Condizioni mediche (opzionale)
+
+### 3. Imposta Obiettivi
+Definisci:
+- Peso desiderato
+- Obiettivo calorie giornaliere
+- Target passi giornalieri
+- Ore di sonno ideali
+
+### 4. Traccia i Tuoi Dati
+Registra quotidianamente:
+- Peso corporeo
+- Calorie bruciate
+- Passi e attività fisica
+- Ore di sonno
+- Parametri vitali (pressione, frequenza cardiaca, glicemia)
+- Dieta (acqua, caffè, alcol, sigarette)
+- Medicine assunte
+
+### 5. Connetti Google Fit (Opzionale)
+Sincronizza automaticamente passi, calorie e attività dal tuo dispositivo.
+
+### 6. Ricevi Insights e Notifiche
+- Analisi automatica dei tuoi progressi
+- Suggerimenti personalizzati
+- Report settimanali e mensili via Telegram
+- Promemoria medicine
+
+
+---
+
+
+
+## 📬 Contatti
+
+Per maggiori informazioni, collaborazioni o feedback:
+
+📧 **Email:** [andreabonacci95@protonmail.com](mailto:andreabonacci95@protonmail.com)
+
+---
+
+<div align="center">
+
+
+Sviluppato da **Andrea Bonacci**
+
+</div>
