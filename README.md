@@ -150,7 +150,6 @@ Per maggiori informazioni, collaborazioni o feedback:
 
 <div align="center">
 
-
-Sviluppato da **Andrea Bonacci**
+**© 2025 Andrea Bonacci - Tutti i diritti riservati**
 
 </div>
