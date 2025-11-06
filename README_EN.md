@@ -143,6 +143,10 @@ For more information, collaborations, or feedback:
 
 ---
 
-Developed by **Andrea Bonacci**
+<div align="center">
+
+**© 2025 Andrea Bonacci - Tutti i diritti riservati**
+
+</div>
 
 </div>
