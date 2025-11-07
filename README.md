@@ -18,9 +18,12 @@ L'app offre un'esperienza utente moderna e intuitiva.
 
 ### 💪 Monitoraggio Completo della Salute
 - **Peso Corporeo** - Traccia il tuo peso con storico completo e grafici di andamento
-- **Parametri Vitali** - Monitora pressione sanguigna, frequenza cardiaca e glicemia
-- **Calorie e TDEE** - Calcolo automatico del fabbisogno calorico giornaliero
-- **Attività Fisica** - Tracciamento passi, sonno e workout completati
+- **Parametri Vitali** - Monitora pressione sanguigna, frequenza cardiaca e glicemia con grafici dettagliati
+- **Piano Alimentare** - Sistema completo di gestione pasti con alternative giornaliere organizzate per giorno della settimana
+- **Calorie e TDEE** - Calcolo automatico del fabbisogno calorico giornaliero con insights personalizzati
+- **Dieta Dettagliata** - Tracciamento acqua, caffè, alcol e sigarette con statistiche giornaliere e settimanali
+- **Attività Fisica** - Tracciamento passi, sonno e workout completati con schede personalizzate
+- **Medicine** - Sistema di promemoria con rinnovo automatico ogni 3 mesi
 
 ### 📊 Visualizzazioni Interattive
 
@@ -50,9 +53,9 @@ Il motore di analisi automatica ti aiuta a:
 
 ### 🔗 Integrazioni Avanzate
 
-- **Google Fit** - Sincronizzazione automatica di passi, calorie e attività
-- **Notifiche Medicine** - Promemoria per l'assunzione di farmaci
-- **Export Dati** - Backup completo dei tuoi dati di salute
+- **Google Fit** - Sincronizzazione automatica di peso, passi, calorie, sonno, glicemia, pressione sanguigna, frequenza cardiaca e workout completati
+- **Notifiche Medicine** - Promemoria per l'assunzione di farmaci con sistema di rinnovo automatico ogni 3 mesi
+- **Export Dati** - Esporta piano alimentare e dati di salute in formato CSV per backup completo
 
 ### 🌍 Multilingua
 
@@ -116,7 +119,15 @@ Definisci:
 - Target passi giornalieri
 - Ore di sonno ideali
 
-### 4. Traccia i Tuoi Dati
+### 4. Crea il Tuo Piano Alimentare
+Organizza i tuoi pasti:
+- Crea alternative per colazione, spuntini, pranzo e cena
+- Organizza per giorno della settimana (es. Colazione Lunedì, Pranzo Martedì)
+- Aggiungi ingredienti con grammature precise
+- Seleziona l'alternativa da consumare oggi
+- Esporta il piano in CSV
+
+### 5. Traccia i Tuoi Dati
 Registra quotidianamente:
 - Peso corporeo
 - Calorie bruciate
@@ -124,16 +135,15 @@ Registra quotidianamente:
 - Ore di sonno
 - Parametri vitali (pressione, frequenza cardiaca, glicemia)
 - Dieta (acqua, caffè, alcol, sigarette)
-- Medicine assunte
+- Medicine assunte (con rinnovo automatico ogni 3 mesi)
 
-### 5. Connetti Google Fit (Opzionale)
-Sincronizza automaticamente passi, calorie e attività dal tuo dispositivo.
+### 6. Connetti Google Fit (Opzionale)
+Sincronizza automaticamente peso, passi, calorie, sonno, glicemia, pressione, frequenza cardiaca e workout dal tuo dispositivo.
 
-### 6. Ricevi Insights e Notifiche
-- Analisi automatica dei tuoi progressi
-- Suggerimenti personalizzati
-- Report settimanali e mensili via Telegram
-- Promemoria medicine
+### 7. Ricevi Insights e Notifiche
+- Analisi automatica dei tuoi progressi con correlazioni intelligenti
+- Suggerimenti personalizzati basati sui tuoi dati
+- Promemoria medicine con avvisi automatici per il rinnovo (ogni 3 mesi)
 
 
 ---

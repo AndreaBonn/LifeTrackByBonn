@@ -18,9 +18,12 @@ The app offers a modern and intuitive user experience, with a focus on **perform
 
 ### 💪 Complete Health Monitoring
 - **Body Weight** - Track your weight with complete history and trend charts
-- **Vital Parameters** - Monitor blood pressure, heart rate, and glucose levels
-- **Calories and TDEE** - Automatic calculation of daily caloric needs
-- **Physical Activity** - Track steps, sleep, and completed workouts
+- **Vital Parameters** - Monitor blood pressure, heart rate, and glucose levels with detailed charts
+- **Meal Plan** - Complete meal management system with daily alternatives organized by day of the week
+- **Calories and TDEE** - Automatic calculation of daily caloric needs with personalized insights
+- **Detailed Diet** - Track water, coffee, alcohol, and cigarettes with daily and weekly statistics
+- **Physical Activity** - Track steps, sleep, and completed workouts with personalized workout plans
+- **Medicines** - Reminder system with automatic renewal every 3 months
 
 ### 📊 Interactive Visualizations
 
@@ -50,9 +53,9 @@ The automatic analysis engine helps you:
 
 ### 🔗 Advanced Integrations
 
-- **Google Fit** - Automatic synchronization of steps, calories, and activities
-- **Medicine Notifications** - Reminders for medication intake
-- **Data Export** - Complete backup of your health data
+- **Google Fit** - Automatic synchronization of weight, steps, calories, sleep, glucose, blood pressure, heart rate, and completed workouts
+- **Medicine Notifications** - Reminders for medication intake with automatic renewal system every 3 months
+- **Data Export** - Export meal plan and health data in CSV format for complete backup
 
 ### 🌍 Multilingual
 
@@ -115,7 +118,15 @@ Define:
 - Daily step target
 - Ideal sleep hours
 
-### 4. Track Your Data
+### 4. Create Your Meal Plan
+Organize your meals:
+- Create alternatives for breakfast, snacks, lunch, and dinner
+- Organize by day of the week (e.g., Monday Breakfast, Tuesday Lunch)
+- Add ingredients with precise amounts
+- Select the alternative to consume today
+- Export the plan to CSV
+
+### 5. Track Your Data
 Record daily:
 - Body weight
 - Calories burned
@@ -123,15 +134,15 @@ Record daily:
 - Sleep hours
 - Vital parameters (blood pressure, heart rate, glucose)
 - Diet (water, coffee, alcohol, cigarettes)
-- Medications taken
+- Medications taken (with automatic renewal every 3 months)
 
-### 5. Connect Google Fit (Optional)
-Automatically sync steps, calories, and activities from your device.
+### 6. Connect Google Fit (Optional)
+Automatically sync weight, steps, calories, sleep, glucose, blood pressure, heart rate, and workouts from your device.
 
-### 6. Receive Insights and Notifications
-- Automatic analysis of your progress
-- Personalized suggestions
-- Medicine reminders
+### 7. Receive Insights and Notifications
+- Automatic analysis of your progress with intelligent correlations
+- Personalized suggestions based on your data
+- Medicine reminders with automatic renewal alerts (every 3 months)
 
 ---
 
