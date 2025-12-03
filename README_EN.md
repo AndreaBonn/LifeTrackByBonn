@@ -1,10 +1,12 @@
-# 🏋🏻‍♂️ Life Tracker (PWA)
+# 🏋🏻‍♂️ Life Tracker (PWA)\
 
-Welcome to my project presentation page!
+<div align="center">
 
-👉 **Visit the live app:** [Life Tracker by Bonn](https://personal-health-by-bonn.web.app)
+**Web App for Health tracking**
 
----
+🌐 [**Try Live**](https://personal-health-by-bonn.web.app) • 📱 Installable • ☁️ Cloud Sync
+
+</div>
 
 ## ℹ️ Description
 
@@ -17,18 +19,23 @@ The app offers a modern and intuitive user experience, with a focus on **perform
 ## ✨ Key Features
 
 ### 💪 Complete Health Monitoring
-- **Body Weight** - Track your weight with complete history and trend charts
+- **Body Weight** - Track your weight with complete history, trend charts, and visual monthly calendar with color-coded changes
 - **Vital Parameters** - Monitor blood pressure, heart rate, and glucose levels with detailed charts
 - **Meal Plan** - Complete meal management system with daily alternatives organized by day of the week
+- **Food Diary** - Record every meal consumed with details on weight, quantity, and calories
 - **Calories and TDEE** - Automatic calculation of daily caloric needs with personalized insights
 - **Detailed Diet** - Track water, coffee, alcohol, and cigarettes with daily and weekly statistics
 - **Physical Activity** - Track steps, sleep, and completed workouts with personalized workout plans
+- **Advanced Sleep** - Record sleep hours with intuitive hours/minutes picker, or precise start and end times
 - **Medicines** - Reminder system with automatic renewal every 3 months
 
 ### 📊 Interactive Visualizations
 
 #### Temporal Trend Charts
 Monitor weight, calories, steps, and sleep trends with interactive line charts. Filter by week, month, or year.
+
+#### Monthly Weight Calendar
+View your weight in a monthly calendar with color coding: green for positive changes toward your goal, red for negative ones. Color intensity indicates the severity of the change.
 
 #### Vital Parameters Dashboard
 View blood pressure, heart rate, and glucose with dedicated charts. Click on each point to see measurement details.
@@ -128,12 +135,13 @@ Organize your meals:
 
 ### 5. Track Your Data
 Record daily:
-- Body weight
+- Body weight (also viewable in monthly calendar)
 - Calories burned
 - Steps and physical activity
-- Sleep hours
+- Sleep hours with intuitive picker (separate hours and minutes) or precise times
 - Vital parameters (blood pressure, heart rate, glucose)
 - Diet (water, coffee, alcohol, cigarettes)
+- Meals consumed in food diary
 - Medications taken (with automatic renewal every 3 months)
 
 ### 6. Connect Google Fit (Optional)
@@ -143,6 +151,21 @@ Automatically sync weight, steps, calories, sleep, glucose, blood pressure, hear
 - Automatic analysis of your progress with intelligent correlations
 - Personalized suggestions based on your data
 - Medicine reminders with automatic renewal alerts (every 3 months)
+
+---
+
+
+## 🎯 Try the App Now!
+
+<div align="center">
+
+### 👉 [**OPEN LIFE TRACK**](https://personal-health-by-bonn.web.app) 👈
+
+**No installation required • Works on all devices • Cloud-synced data**
+
+[![Try Now](https://img.shields.io/badge/🚀_START_FREE-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1a73e8)](https://personal-health-by-bonn.web.app)
+
+</div>
 
 ---
 

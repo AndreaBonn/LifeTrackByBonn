@@ -1,158 +1,81 @@
-# 🏋🏻‍♂️ Life Tracker (PWA)
+# 🏋🏻‍♂️ Life Tracker - Personal Health Monitoring PWA
 
-Benvenuto nella pagina di presentazione del mio progetto!
+<div align="center">
 
-👉 **Visita l'app live:** [Life Tracker by Bonn](https://personal-health-by-bonn.web.app)
+[![Live App](https://img.shields.io/badge/🌐_Live_App-Visit_Now-667eea?style=for-the-badge)](https://personal-health-by-bonn.web.app)
 
----
 
-## ℹ️ Descrizione
+[![English](https://img.shields.io/badge/ENGLISH-Read_Documentation-4A90E2?style=for-the-badge)](./README_EN.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Italiano](https://img.shields.io/badge/Italiano-Leggi_Documentazione-009246?style=for-the-badge)](./README_IT.md)
 
-**Life Tracker** è una PWA completa per il monitoraggio della salute personale. Sviluppata con **HTML5, CSS3 e JavaScript vanilla**, utilizza **Firebase** per il backend, **Chart.js** per le visualizzazioni interattive e si integra con **Google Fit** e **Telegram**.
-
-L'app offre un'esperienza utente moderna e intuitiva.
-
----
-
-## ✨ Caratteristiche Principali
-
-### 💪 Monitoraggio Completo della Salute
-- **Peso Corporeo** - Traccia il tuo peso con storico completo e grafici di andamento
-- **Parametri Vitali** - Monitora pressione sanguigna, frequenza cardiaca e glicemia con grafici dettagliati
-- **Piano Alimentare** - Sistema completo di gestione pasti con alternative giornaliere organizzate per giorno della settimana
-- **Calorie e TDEE** - Calcolo automatico del fabbisogno calorico giornaliero con insights personalizzati
-- **Dieta Dettagliata** - Tracciamento acqua, caffè, alcol e sigarette con statistiche giornaliere e settimanali
-- **Attività Fisica** - Tracciamento passi, sonno e workout completati con schede personalizzate
-- **Medicine** - Sistema di promemoria con rinnovo automatico ogni 3 mesi
-
-### 📊 Visualizzazioni Interattive
-
-#### Grafici Trend Temporali
-Monitora l'andamento di peso, calorie, passi e sonno con grafici a linee interattivi. Filtra per settimana, mese o anno.
-
-#### Dashboard Parametri Vitali
-Visualizza pressione, frequenza cardiaca e glicemia con grafici dedicati. Clicca su ogni punto per vedere i dettagli della misurazione.
-
-#### Analisi Dieta
-Traccia acqua, caffè, alcol e sigarette con contatori giornalieri e statistiche settimanali.
-
-### 🎯 Obiettivi e Motivazione
-
-- **Peso Desiderato** - Imposta il tuo obiettivo e monitora i progressi
-- **Streak System** - Mantieni la motivazione con streak giornalieri
-- **Badge e Celebrazioni** - Sblocca riconoscimenti per obiettivi raggiunti
-- **Insights Personalizzati** - Suggerimenti basati sui tuoi dati
-
-### 🤖 Insights Intelligenti
-
-Il motore di analisi automatica ti aiuta a:
-- 📈 Identificare pattern nelle tue abitudini di salute
-- 🔍 Scoprire correlazioni tra peso, calorie e attività
-- 📅 Confrontare periodi diversi (settimana corrente vs precedente)
-- 💡 Ricevere suggerimenti personalizzati per migliorare il benessere
-
-### 🔗 Integrazioni Avanzate
-
-- **Google Fit** - Sincronizzazione automatica di peso, passi, calorie, sonno, glicemia, pressione sanguigna, frequenza cardiaca e workout completati
-- **Notifiche Medicine** - Promemoria per l'assunzione di farmaci con sistema di rinnovo automatico ogni 3 mesi
-- **Export Dati** - Esporta piano alimentare e dati di salute in formato CSV per backup completo
-
-### 🌍 Multilingua
-
-Interfaccia completamente tradotta in:
-- 🇮🇹 **Italiano**
-- 🇬🇧 **English**
-
-Switch istantaneo tra le lingue con traduzione automatica di tutti i messaggi.
-
-### 📱 Progressive Web App
-
-- **Installabile** - Aggiungi alla home screen come app nativa
-- **Offline First** - Funziona anche senza connessione internet
-- **Responsive Design** - Ottimizzata per mobile, tablet e desktop
-- **Performance** - Caricamento veloce e animazioni fluide
+</div>
 
 ---
 
+## ℹ️ About / Informazioni
 
-## 🛠️ Tecnologie Utilizzate
+**Life Tracker** is a Web Application designed to help you monitor and improve your personal health and wellness. Built with modern web technologies, it offers a complete suite of tools for tracking weight, vital parameters, nutrition, physical activity, sleep, and medications.
 
-### Frontend
-- **HTML5, CSS3, JavaScript** - Vanilla JS per massime performance
-- **Chart.js** - Libreria per grafici interattivi e responsive
-- **PWA APIs** - Service Worker, Web App Manifest, Cache API
-
-### Backend & Storage
-- **Firebase Firestore** - Database NoSQL real-time
-- **Firebase Authentication** - Sistema di autenticazione sicuro con verifica email
-- **Firebase Cloud Functions** - Serverless functions per notifiche e integrazioni
-- **Firebase Hosting** - Hosting veloce e affidabile con HTTPS
-
-### Integrazioni
-- **Google Fit API** - Sincronizzazione automatica dati fitness
-- **OAuth 2.0** - Autenticazione sicura per Google Fit
-
-### Architettura
-- **Single Page Application** - Navigazione fluida senza reload
-- **Offline First** - Persistenza locale con sincronizzazione cloud
-- **Responsive Design** - Mobile-first approach
-- **Real-time Updates** - Sincronizzazione istantanea tra dispositivi
+**Life Tracker** è un'applicazione web progressiva completa progettata per aiutarti a monitorare e migliorare la tua salute e il tuo benessere personale. Costruita con tecnologie web moderne, offre una suite completa di strumenti per tracciare peso, parametri vitali, nutrizione, attività fisica, sonno e medicine.
 
 ---
 
-## 🚀 Come Funziona
+## ✨ Key Features / Caratteristiche Principali
 
-### 1. Registrazione e Login
-Crea un account con email e password. Verifica la tua email per accedere all'app.
-
-### 2. Completa il Tuo Profilo
-Imposta informazioni personali:
-- Nome, data di nascita, genere
-- Città di residenza
-- Livello di attività fisica
-- Condizioni mediche (opzionale)
-
-### 3. Imposta Obiettivi
-Definisci:
-- Peso desiderato
-- Obiettivo calorie giornaliere
-- Target passi giornalieri
-- Ore di sonno ideali
-
-### 4. Crea il Tuo Piano Alimentare
-Organizza i tuoi pasti:
-- Crea alternative per colazione, spuntini, pranzo e cena
-- Organizza per giorno della settimana (es. Colazione Lunedì, Pranzo Martedì)
-- Aggiungi ingredienti con grammature precise
-- Seleziona l'alternativa da consumare oggi
-- Esporta il piano in CSV
-
-### 5. Traccia i Tuoi Dati
-Registra quotidianamente:
-- Peso corporeo
-- Calorie bruciate
-- Passi e attività fisica
-- Ore di sonno
-- Parametri vitali (pressione, frequenza cardiaca, glicemia)
-- Dieta (acqua, caffè, alcol, sigarette)
-- Medicine assunte (con rinnovo automatico ogni 3 mesi)
-
-### 6. Connetti Google Fit (Opzionale)
-Sincronizza automaticamente peso, passi, calorie, sonno, glicemia, pressione, frequenza cardiaca e workout dal tuo dispositivo.
-
-### 7. Ricevi Insights e Notifiche
-- Analisi automatica dei tuoi progressi con correlazioni intelligenti
-- Suggerimenti personalizzati basati sui tuoi dati
-- Promemoria medicine con avvisi automatici per il rinnovo (ogni 3 mesi)
-
+- 📊 **Interactive Charts & Visualizations** / Grafici e Visualizzazioni Interattive
+- 🎯 **Goal Setting & Progress Tracking** / Impostazione Obiettivi e Monitoraggio Progressi
+- 🔗 **Google Fit Integration** / Integrazione con Google Fit
+- 📱 **Installable PWA** / PWA Installabile
+- 🌐 **Multilingual Support** (🇮🇹 🇬🇧) / Supporto Multilingua
+- 🔒 **Secure & Private** / Sicuro e Privato
+- 📴 **Offline Functionality** / Funzionalità Offline
 
 ---
 
+## 🚀 Quick Start / Avvio Rapido
 
+<div align="center">
 
-## 📬 Contatti
+### [👉 Launch App / Avvia App 👈](https://personal-health-by-bonn.web.app)
 
-Per maggiori informazioni, collaborazioni o feedback:
+</div>
+
+1. **Visit the app** / Visita l'app
+2. **Create an account** / Crea un account
+3. **Set your goals** / Imposta i tuoi obiettivi
+4. **Start tracking** / Inizia a tracciare
+
+---
+
+## 📚 Full Documentation / Documentazione Completa
+
+For detailed information about features, setup, and usage, please select your preferred language:
+
+Per informazioni dettagliate su funzionalità, configurazione e utilizzo, seleziona la tua lingua preferita:
+
+<div align="center">
+
+| Language / Lingua | Documentation / Documentazione |
+|:-----------------:|:------------------------------:|
+| 🇬🇧 **English** | [Read Full Documentation](./README_EN.md) |
+| 🇮🇹 **Italiano** | [Leggi Documentazione Completa](./README_IT.md) |
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** HTML5, CSS3, Vanilla JavaScript
+- **Backend:** Firebase (Firestore, Authentication, Cloud Functions, Hosting)
+- **Charts:** Chart.js
+- **Integrations:** Google Fit API, OAuth 2.0
+- **Architecture:** PWA, Single Page Application, Offline First
+
+---
+
+## 📬 Contact / Contatti
 
 📧 **Email:** [andreabonacci95@protonmail.com](mailto:andreabonacci95@protonmail.com)
 
@@ -160,6 +83,6 @@ Per maggiori informazioni, collaborazioni o feedback:
 
 <div align="center">
 
-**© 2025 Andrea Bonacci - Tutti i diritti riservati**
+**© 2025 Andrea Bonacci - All Rights Reserved / Tutti i diritti riservati**
 
 </div>
