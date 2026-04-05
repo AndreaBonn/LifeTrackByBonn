@@ -18,9 +18,9 @@
 
 The best way to provide feedback is through **GitHub Issues**:
 
-- 🐛 **Bug reports** — Found a problem? [Open an issue](https://github.com/AndreaBonn/life-tracker/issues/new)
-- 💡 **Feature requests** — Have an idea? [Suggest a new feature](https://github.com/AndreaBonn/life-tracker/issues/new)
-- 📖 **Documentation** — Something unclear? [Request improvements](https://github.com/AndreaBonn/life-tracker/issues/new)
+- 🐛 **Bug reports** — Found a problem? [Open an issue](https://github.com/AndreaBonn/LifeTrackByBonn/issues/new)
+- 💡 **Feature requests** — Have an idea? [Suggest a new feature](https://github.com/AndreaBonn/LifeTrackByBonn/issues/new)
+- 📖 **Documentation** — Something unclear? [Request improvements](https://github.com/AndreaBonn/LifeTrackByBonn/issues/new)
 
 **Why GitHub Issues?**
 - Public discussion — others can benefit from the conversation
@@ -39,7 +39,7 @@ Prefer a more private conversation?
 
 If Life Tracker has been useful to you, the best way to show your appreciation is to **leave a star** on the repository!
 
-[![Star on GitHub](https://img.shields.io/github/stars/AndreaBonn/life-tracker?style=social)](https://github.com/AndreaBonn/life-tracker)
+[![Star on GitHub](https://img.shields.io/github/stars/AndreaBonn/LifeTrackByBonn?style=social)](https://github.com/AndreaBonn/LifeTrackByBonn)
 
 ---
 
@@ -199,7 +199,7 @@ Special thanks to all users who have provided feedback and helped improve Life T
 
 **Andrea Bonacci**
 - GitHub: [@AndreaBonn](https://github.com/AndreaBonn)
-- Repository: [Life Tracker](https://github.com/AndreaBonn/life-tracker)
+- Repository: [Life Tracker](https://github.com/AndreaBonn/LifeTrackByBonn)
 
 ---
 
