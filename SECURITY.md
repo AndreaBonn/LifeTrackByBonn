@@ -2,7 +2,7 @@
 
 ## Life Tracker by Bonn
 
-[![Versione Italiana](https://img.shields.io/badge/🇮🇹_Versione_Italiana-009246?style=flat-square)](./SECURITY_IT.md) &nbsp; [![README](https://img.shields.io/badge/README-4A90E2?style=flat-square)](./README_EN.md)
+[![Versione Italiana](https://img.shields.io/badge/🇮🇹_Versione_Italiana-009246?style=flat-square)](./SECURITY_IT.md) &nbsp; [![README](https://img.shields.io/badge/README-4A90E2?style=flat-square)](./README.md)
 
 ---
 
@@ -183,4 +183,4 @@ If you have reported a vulnerability and would like to be acknowledged, please l
 
 **© 2025-2026 Andrea Bonacci - All Rights Reserved**
 
-[![Versione Italiana](https://img.shields.io/badge/🇮🇹_Versione_Italiana-009246?style=flat-square)](./SECURITY_IT.md) &nbsp; [![README](https://img.shields.io/badge/README-4A90E2?style=flat-square)](./README_EN.md)
+[![Versione Italiana](https://img.shields.io/badge/🇮🇹_Versione_Italiana-009246?style=flat-square)](./SECURITY_IT.md) &nbsp; [![README](https://img.shields.io/badge/README-4A90E2?style=flat-square)](./README.md)
