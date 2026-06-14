@@ -2,50 +2,50 @@
 
 ## Life Tracker by Bonn
 
-[![English Version](https://img.shields.io/badge/🇬🇧_English_Version-4A90E2?style=flat-square)](./SECURITY.md) &nbsp; [![README](https://img.shields.io/badge/📖_README-009246?style=flat-square)](./README.md)
+[![English Version](https://img.shields.io/badge/🇬🇧_English_Version-4A90E2?style=flat-square)](./SECURITY.md) &nbsp; [![README](https://img.shields.io/badge/README-009246?style=flat-square)](./README.md)
 
 ---
 
-## 🔒 Panoramica sulla Sicurezza
+## Panoramica sulla Sicurezza
 
 **Life Tracker** prende sul serio la sicurezza e la privacy. Questo documento descrive le nostre pratiche di sicurezza, come proteggiamo i tuoi dati e come segnalare vulnerabilità di sicurezza.
 
 ---
 
-## 🛡️ Misure di Sicurezza
+## Misure di Sicurezza
 
 ### Autenticazione
 
-- **Firebase Authentication** — Sistema di autenticazione standard del settore
-- **Verifica email** — Richiesta per l'attivazione dell'account
-- **Archiviazione sicura delle password** — Le password sono hashate e mai salvate in chiaro
-- **Gestione delle sessioni** — Scadenza automatica delle sessioni e gestione sicura dei token
+- **Firebase Authentication** - Sistema di autenticazione standard del settore
+- **Verifica email** - Richiesta per l'attivazione dell'account
+- **Archiviazione sicura delle password** - Le password sono hashate e mai salvate in chiaro
+- **Gestione delle sessioni** - Scadenza automatica delle sessioni e gestione sicura dei token
 
 ### Protezione dei Dati
 
-- **Crittografia in transito** — Tutti i dati sono trasmessi tramite HTTPS
-- **Crittografia a riposo** — I dati archiviati in Firebase Firestore sono crittografati
-- **Isolamento utente** — Ogni utente può accedere solo ai propri dati
-- **Firestore Security Rules** — Regole avanzate impediscono accessi non autorizzati
+- **Crittografia in transito** - Tutti i dati sono trasmessi tramite HTTPS
+- **Crittografia a riposo** - I dati archiviati in Firebase Firestore sono crittografati
+- **Isolamento utente** - Ogni utente può accedere solo ai propri dati
+- **Firestore Security Rules** - Regole avanzate impediscono accessi non autorizzati
 
 ### Infrastruttura
 
-- **Firebase Hosting** — Hosting sicuro e scalabile con certificati SSL automatici
-- **Cloud Functions** — La logica backend viene eseguita in ambienti isolati e sicuri
-- **Data center europei** — Dati archiviati in Europa (regione: europe-west1)
-- **Aggiornamenti regolari** — Dipendenze e librerie sono mantenute aggiornate
+- **Firebase Hosting** - Hosting sicuro e scalabile con certificati SSL automatici
+- **Cloud Functions** - La logica backend viene eseguita in ambienti isolati e sicuri
+- **Data center europei** - Dati archiviati in Europa (regione: europe-west1)
+- **Aggiornamenti regolari** - Dipendenze e librerie sono mantenute aggiornate
 
 ### Sicurezza dell'Applicazione
 
-- **Validazione degli input** — Tutti gli input utente sono validati sia lato client che server
-- **Prevenzione XSS** — Sanitizzazione HTML per prevenire attacchi cross-site scripting
-- **Protezione CSRF** — Firebase Authentication fornisce protezione CSRF integrata
-- **Rate limiting** — Protezione contro attacchi brute-force e abusi
-- **Audit logging** — Le operazioni critiche sono registrate per il monitoraggio della sicurezza
+- **Validazione degli input** - Tutti gli input utente sono validati sia lato client che server
+- **Prevenzione XSS** - Sanitizzazione HTML per prevenire attacchi cross-site scripting
+- **Protezione CSRF** - Firebase Authentication fornisce protezione CSRF integrata
+- **Rate limiting** - Protezione contro attacchi brute-force e abusi
+- **Audit logging** - Le operazioni critiche sono registrate per il monitoraggio della sicurezza
 
 ---
 
-## 🔐 Privacy dei Dati
+## Privacy dei Dati
 
 ### Quali dati raccogliamo
 
@@ -57,10 +57,10 @@ Life Tracker raccoglie solo i dati che fornisci esplicitamente:
 
 ### Cosa NON raccogliamo
 
-- ❌ NON tracciamo il tuo comportamento di navigazione
-- ❌ NON vendiamo i tuoi dati a terze parti
-- ❌ NON utilizziamo i tuoi dati per pubblicità
-- ❌ NON condividiamo i tuoi dati senza il tuo consenso
+- NON tracciamo il tuo comportamento di navigazione
+- NON vendiamo i tuoi dati a terze parti
+- NON utilizziamo i tuoi dati per pubblicità
+- NON condividiamo i tuoi dati senza il tuo consenso
 
 ### Archiviazione dei dati
 
@@ -73,14 +73,14 @@ Life Tracker raccoglie solo i dati che fornisci esplicitamente:
 
 Life Tracker si integra con:
 
-- **Google Fit** (opzionale) — Solo se lo autorizzi esplicitamente
-- **Telegram** (opzionale) — Solo se fornisci il tuo bot token e chat ID
+- **Google Fit** (opzionale) - Solo se lo autorizzi esplicitamente
+- **Telegram** (opzionale) - Solo se fornisci il tuo bot token e chat ID
 
 Queste integrazioni sono **opt-in** e possono essere disconnesse in qualsiasi momento.
 
 ---
 
-## 🚨 Segnalazione di Vulnerabilità di Sicurezza
+## Segnalazione di Vulnerabilità di Sicurezza
 
 Se scopri una vulnerabilità di sicurezza in Life Tracker, ti preghiamo di segnalarla in modo responsabile.
 
@@ -104,20 +104,20 @@ Ti preghiamo di concedere un tempo ragionevole per la correzione della vulnerabi
 
 ---
 
-## 🔍 Best Practice di Sicurezza per gli Utenti
+## Best Practice di Sicurezza per gli Utenti
 
 Per mantenere il tuo account sicuro:
 
-- ✅ Usa una **password forte e unica** (almeno 8 caratteri, mix di lettere, numeri, simboli)
-- ✅ **Verifica la tua email** dopo la registrazione
-- ✅ **Disconnettiti** quando usi dispositivi condivisi
-- ✅ **Non condividere** la tua password con nessuno
-- ✅ **Abilita l'autenticazione a due fattori** (se disponibile in futuro)
-- ✅ **Mantieni aggiornato il browser** per le ultime patch di sicurezza
+- Usa una **password forte e unica** (almeno 8 caratteri, mix di lettere, numeri, simboli)
+- **Verifica la tua email** dopo la registrazione
+- **Disconnettiti** quando usi dispositivi condivisi
+- **Non condividere** la tua password con nessuno
+- **Abilita l'autenticazione a due fattori** (se disponibile in futuro)
+- **Mantieni aggiornato il browser** per le ultime patch di sicurezza
 
 ---
 
-## 📋 Checklist di Sicurezza
+## Checklist di Sicurezza
 
 Life Tracker implementa le seguenti misure di sicurezza:
 
@@ -136,7 +136,7 @@ Life Tracker implementa le seguenti misure di sicurezza:
 
 ---
 
-## 🔄 Aggiornamenti di Sicurezza
+## Aggiornamenti di Sicurezza
 
 Gli aggiornamenti di sicurezza vengono distribuiti automaticamente:
 
@@ -149,18 +149,18 @@ Gli utenti vengono aggiornati automaticamente quando ricaricano l'applicazione (
 
 ---
 
-## 📜 Conformità
+## Conformità
 
 Life Tracker è progettato con privacy e sicurezza in mente:
 
-- **Conforme GDPR** — Dati archiviati in data center europei
-- **Portabilità dei dati** — Esporta i tuoi dati in formato CSV
-- **Diritto alla cancellazione** — Elimina il tuo account e tutti i dati in qualsiasi momento
-- **Trasparenza** — Informazioni chiare sulla raccolta e l'utilizzo dei dati
+- **Conforme GDPR** - Dati archiviati in data center europei
+- **Portabilità dei dati** - Esporta i tuoi dati in formato CSV
+- **Diritto alla cancellazione** - Elimina il tuo account e tutti i dati in qualsiasi momento
+- **Trasparenza** - Informazioni chiare sulla raccolta e l'utilizzo dei dati
 
 ---
 
-## 📞 Contatti
+## Contatti
 
 Per domande o dubbi relativi alla sicurezza:
 
@@ -171,7 +171,7 @@ Per supporto generale, consulta il [README](./README_IT.md).
 
 ---
 
-## 🙏 Ringraziamenti
+## Ringraziamenti
 
 Vorrei ringraziare i ricercatori di sicurezza e gli utenti che hanno contribuito a migliorare la sicurezza di Life Tracker.
 
@@ -181,6 +181,6 @@ Se hai segnalato una vulnerabilità e desideri essere riconosciuto, fammelo sape
 
 **Ultimo aggiornamento:** Gennaio 2025
 
-**© 2025-2026 Andrea Bonacci — Tutti i diritti riservati**
+**© 2025-2026 Andrea Bonacci - Tutti i diritti riservati**
 
-[![English Version](https://img.shields.io/badge/🇬🇧_English_Version-4A90E2?style=flat-square)](./SECURITY.md) &nbsp; [![README](https://img.shields.io/badge/📖_README-009246?style=flat-square)](./README.md)
+[![English Version](https://img.shields.io/badge/🇬🇧_English_Version-4A90E2?style=flat-square)](./SECURITY.md) &nbsp; [![README](https://img.shields.io/badge/README-009246?style=flat-square)](./README.md)

@@ -1,41 +1,41 @@
-# 💬 Feedback e Suggerimenti
+# Feedback e Suggerimenti
 
 ## Life Tracker by Bonn
 
-[![English Version](https://img.shields.io/badge/🇬🇧_English_Version-4A90E2?style=flat-square)](./FEEDBACK.md) &nbsp; [![README](https://img.shields.io/badge/📖_README-009246?style=flat-square)](./README_IT.md)
+[![English Version](https://img.shields.io/badge/🇬🇧_English_Version-4A90E2?style=flat-square)](./FEEDBACK.md) &nbsp; [![README](https://img.shields.io/badge/README-009246?style=flat-square)](./README_IT.md)
 
 ---
 
-## 🎯 Il tuo feedback è importante!
+## Il tuo feedback è importante!
 
 **Life Tracker** è in continua evoluzione e il tuo feedback è essenziale per renderla migliore. Che tu abbia suggerimenti, richieste di funzionalità, segnalazioni di bug o semplicemente voglia condividere la tua esperienza, mi farebbe piacere sentirti!
 
 ---
 
-## 📝 Come fornire feedback
+## Come fornire feedback
 
-### 1️⃣ GitHub Issues (Consigliato)
+### GitHub Issues (Consigliato)
 
 Il modo migliore per fornire feedback è attraverso le **GitHub Issues**:
 
-- 🐛 **Segnalazione bug** — Hai trovato un problema? [Apri una issue](https://github.com/AndreaBonn/LifeTrackByBonn/issues/new)
-- 💡 **Richieste funzionalità** — Hai un'idea? [Suggerisci una nuova funzionalità](https://github.com/AndreaBonn/LifeTrackByBonn/issues/new)
-- 📖 **Documentazione** — Qualcosa non è chiaro? [Richiedi miglioramenti](https://github.com/AndreaBonn/LifeTrackByBonn/issues/new)
+- **Segnalazione bug** - Hai trovato un problema? [Apri una issue](https://github.com/AndreaBonn/LifeTrackByBonn/issues/new)
+- **Richieste funzionalità** - Hai un'idea? [Suggerisci una nuova funzionalità](https://github.com/AndreaBonn/LifeTrackByBonn/issues/new)
+- **Documentazione** - Qualcosa non è chiaro? [Richiedi miglioramenti](https://github.com/AndreaBonn/LifeTrackByBonn/issues/new)
 
 **Perché GitHub Issues?**
-- Discussione pubblica — altri possono beneficiare della conversazione
-- Tracciamento — posso tenere traccia di tutte le richieste e aggiornamenti
-- Trasparenza — puoi vedere lo stato della tua richiesta
+- Discussione pubblica - altri possono beneficiare della conversazione
+- Tracciamento - posso tenere traccia di tutte le richieste e aggiornamenti
+- Trasparenza - puoi vedere lo stato della tua richiesta
 
-### 2️⃣ Contatto Diretto
+### Contatto Diretto
 
 Preferisci una conversazione più privata?
 
-- 📧 **Email** — Contattami tramite il mio [profilo GitHub](https://github.com/AndreaBonn)
-- 💼 **LinkedIn** — Connettiti con me professionalmente
-- 🐦 **Social Media** — Trovami sui social
+- **Email** - Contattami tramite il mio [profilo GitHub](https://github.com/AndreaBonn)
+- **LinkedIn** - Connettiti con me professionalmente
+- **Social Media** - Trovami sui social
 
-### 3️⃣ Stella il Repository ⭐
+### Stella il Repository
 
 Se Life Tracker ti è stato utile, il modo migliore per mostrare il tuo apprezzamento è **lasciare una stella** al repository!
 
@@ -43,28 +43,28 @@ Se Life Tracker ti è stato utile, il modo migliore per mostrare il tuo apprezza
 
 ---
 
-## 🐛 Segnalare Bug
+## Segnalare Bug
 
 Quando segnali un bug, includi per favore:
 
 ### Informazioni Richieste
 
-- **Descrizione** — Cosa è successo? Cosa ti aspettavi che succedesse?
-- **Passaggi per riprodurre** — Come posso riprodurre il problema?
+- **Descrizione** - Cosa è successo? Cosa ti aspettavi che succedesse?
+- **Passaggi per riprodurre** - Come posso riprodurre il problema?
   1. Vai su '...'
   2. Clicca su '...'
   3. Vedi l'errore
-- **Ambiente** — Quale dispositivo/browser stai usando?
+- **Ambiente** - Quale dispositivo/browser stai usando?
   - Dispositivo: (es. iPhone 13, Samsung Galaxy S21, Desktop)
   - Browser: (es. Chrome 120, Safari 17, Firefox 121)
   - OS: (es. iOS 17, Android 14, Windows 11, macOS 14)
 
 ### Opzionale ma Utile
 
-- **Screenshot** — Un'immagine vale più di mille parole
-- **Errori console** — Apri la console del browser (F12) e copia eventuali messaggi di errore
-- **Comportamento atteso** — Cosa sarebbe dovuto succedere invece?
-- **Soluzione temporanea** — Hai trovato una soluzione provvisoria?
+- **Screenshot** - Un'immagine vale più di mille parole
+- **Errori console** - Apri la console del browser (F12) e copia eventuali messaggi di errore
+- **Comportamento atteso** - Cosa sarebbe dovuto succedere invece?
+- **Soluzione temporanea** - Hai trovato una soluzione provvisoria?
 
 ### Esempio Segnalazione Bug
 
@@ -92,16 +92,16 @@ TypeError: Cannot read property 'userId' of null
 
 ---
 
-## 💡 Suggerire Funzionalità
+## Suggerire Funzionalità
 
 Hai un'idea per una nuova funzionalità? Fantastico! Ecco come suggerirla:
 
 ### Cosa Includere
 
-- **Descrizione funzionalità** — Cosa vuoi aggiungere?
-- **Caso d'uso** — Perché questa funzionalità è utile? Quale problema risolve?
-- **Esempi** — Come funzionerebbe? Puoi fornire esempi?
-- **Priorità** — Quanto è importante questa funzionalità per te? (Bassa/Media/Alta)
+- **Descrizione funzionalità** - Cosa vuoi aggiungere?
+- **Caso d'uso** - Perché questa funzionalità è utile? Quale problema risolve?
+- **Esempi** - Come funzionerebbe? Puoi fornire esempi?
+- **Priorità** - Quanto è importante questa funzionalità per te? (Bassa/Media/Alta)
 
 ### Esempio Richiesta Funzionalità
 
@@ -123,16 +123,16 @@ Voglio condividere i miei progressi di salute con il mio medico, ma i file CSV n
 
 ---
 
-## 🌟 Condividere la Tua Esperienza
+## Condividere la Tua Esperienza
 
 Mi piacerebbe sapere come Life Tracker ti ha aiutato!
 
 ### Modi per Condividere
 
-- **Storie di successo** — Hai raggiunto il tuo obiettivo di peso? Condividi il tuo percorso!
-- **Casi d'uso** — Come usi Life Tracker? Qual è il tuo workflow?
-- **Testimonianze** — Consiglieresti Life Tracker ad altri?
-- **Social media** — Condividi la tua esperienza e taggami!
+- **Storie di successo** - Hai raggiunto il tuo obiettivo di peso? Condividi il tuo percorso!
+- **Casi d'uso** - Come usi Life Tracker? Qual è il tuo workflow?
+- **Testimonianze** - Consiglieresti Life Tracker ad altri?
+- **Social media** - Condividi la tua esperienza e taggami!
 
 ### Dove Condividere
 
@@ -142,17 +142,17 @@ Mi piacerebbe sapere come Life Tracker ti ha aiutato!
 
 ---
 
-## 🤝 Contribuire
+## Contribuire
 
 Anche se il codice sorgente è privato, puoi comunque contribuire:
 
 ### Contributi Non-Codice
 
-- 📖 **Documentazione** — Aiuta a migliorare il README, guide e tutorial
-- 🌍 **Traduzioni** — Suggerisci miglioramenti alle traduzioni esistenti
-- 🎨 **Design** — Condividi suggerimenti UI/UX e mockup
-- 🧪 **Testing** — Aiuta a testare nuove funzionalità e segnala problemi
-- 📣 **Promozione** — Condividi Life Tracker con amici e comunità
+- **Documentazione** - Aiuta a migliorare il README, guide e tutorial
+- **Traduzioni** - Suggerisci miglioramenti alle traduzioni esistenti
+- **Design** - Condividi suggerimenti UI/UX e mockup
+- **Testing** - Aiuta a testare nuove funzionalità e segnala problemi
+- **Promozione** - Condividi Life Tracker con amici e comunità
 
 ### Come Contribuire
 
@@ -163,7 +163,7 @@ Anche se il codice sorgente è privato, puoi comunque contribuire:
 
 ---
 
-## 📊 Votazione Funzionalità
+## Votazione Funzionalità
 
 Vuoi vedere quali funzionalità sono pianificate? Controlla la **roadmap** (in arrivo) e vota per le tue funzionalità preferite!
 
@@ -184,18 +184,18 @@ Vuoi vedere quali funzionalità sono pianificate? Controlla la **roadmap** (in a
 
 ---
 
-## 🎁 Ringraziamenti
+## Ringraziamenti
 
 Un ringraziamento speciale a tutti gli utenti che hanno fornito feedback e aiutato a migliorare Life Tracker:
 
-- **Beta tester** — Grazie per aver testato le nuove funzionalità!
-- **Segnalatori di bug** — Le vostre segnalazioni rendono Life Tracker più stabile
-- **Richiedenti funzionalità** — Le vostre idee plasmano il futuro di Life Tracker
-- **Sostenitori della comunità** — Grazie per aver diffuso la parola!
+- **Beta tester** - Grazie per aver testato le nuove funzionalità!
+- **Segnalatori di bug** - Le vostre segnalazioni rendono Life Tracker più stabile
+- **Richiedenti funzionalità** - Le vostre idee plasmano il futuro di Life Tracker
+- **Sostenitori della comunità** - Grazie per aver diffuso la parola!
 
 ---
 
-## 📞 Informazioni di Contatto
+## Informazioni di Contatto
 
 **Andrea Bonacci**
 - GitHub: [@AndreaBonn](https://github.com/AndreaBonn)
@@ -203,21 +203,21 @@ Un ringraziamento speciale a tutti gli utenti che hanno fornito feedback e aiuta
 
 ---
 
-## 🔗 Link Rapidi
+## Link Rapidi
 
-- [README](./README_IT.md) — Scopri di più su Life Tracker
-- [Politica di Sicurezza](./SECURITY_IT.md) — Segnala vulnerabilità di sicurezza
-- [Licenza](./LICENSE.md) — Termini di utilizzo
-- [Apri l'App](https://personal-health-by-bonn.web.app) — Inizia a tracciare la tua salute!
+- [README](./README_IT.md) - Scopri di più su Life Tracker
+- [Politica di Sicurezza](./SECURITY_IT.md) - Segnala vulnerabilità di sicurezza
+- [Licenza](./LICENSE.md) - Termini di utilizzo
+- [Apri l'App](https://personal-health-by-bonn.web.app) - Inizia a tracciare la tua salute!
 
 ---
 
-**Grazie per aver usato Life Tracker! Il tuo feedback aiuta a renderla migliore per tutti.** 🙏
+**Grazie per aver usato Life Tracker! Il tuo feedback aiuta a renderla migliore per tutti.**
 
 ---
 
 **Ultimo aggiornamento:** Gennaio 2025
 
-**© 2025-2026 Andrea Bonacci — Tutti i diritti riservati**
+**© 2025-2026 Andrea Bonacci - Tutti i diritti riservati**
 
-[![English Version](https://img.shields.io/badge/🇬🇧_English_Version-4A90E2?style=flat-square)](./FEEDBACK.md) &nbsp; [![README](https://img.shields.io/badge/📖_README-009246?style=flat-square)](./README_IT.md)
+[![English Version](https://img.shields.io/badge/🇬🇧_English_Version-4A90E2?style=flat-square)](./FEEDBACK.md) &nbsp; [![README](https://img.shields.io/badge/README-009246?style=flat-square)](./README_IT.md)
