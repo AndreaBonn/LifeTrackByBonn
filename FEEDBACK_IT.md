@@ -218,6 +218,6 @@ Un ringraziamento speciale a tutti gli utenti che hanno fornito feedback e aiuta
 
 **Ultimo aggiornamento:** Gennaio 2025
 
-**© 2025 Andrea Bonacci — Tutti i diritti riservati**
+**© 2025-2026 Andrea Bonacci — Tutti i diritti riservati**
 
 [![English Version](https://img.shields.io/badge/🇬🇧_English_Version-4A90E2?style=flat-square)](./FEEDBACK.md) &nbsp; [![README](https://img.shields.io/badge/📖_README-009246?style=flat-square)](./README_IT.md)

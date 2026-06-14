@@ -2,7 +2,7 @@
 
 ## Life Tracker by Bonn
 
-**Copyright © 2025 Andrea Bonacci. All Rights Reserved.**
+**Copyright © 2025-2026 Andrea Bonacci. All Rights Reserved.**
 
 ---
 
@@ -79,4 +79,4 @@ Each of these services and libraries is subject to its own license and terms of 
 
 **Last updated:** January 2025
 
-**© 2025 Andrea Bonacci — All Rights Reserved**
+**© 2025-2026 Andrea Bonacci — All Rights Reserved**

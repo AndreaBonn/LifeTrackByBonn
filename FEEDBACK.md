@@ -218,6 +218,6 @@ Special thanks to all users who have provided feedback and helped improve Life T
 
 **Last updated:** January 2025
 
-**© 2025 Andrea Bonacci — All Rights Reserved**
+**© 2025-2026 Andrea Bonacci — All Rights Reserved**
 
 [![Versione Italiana](https://img.shields.io/badge/🇮🇹_Versione_Italiana-009246?style=flat-square)](./FEEDBACK_IT.md) &nbsp; [![README](https://img.shields.io/badge/📖_README-4A90E2?style=flat-square)](./README.md)

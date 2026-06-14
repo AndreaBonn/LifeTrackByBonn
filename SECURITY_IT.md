@@ -181,6 +181,6 @@ Se hai segnalato una vulnerabilità e desideri essere riconosciuto, fammelo sape
 
 **Ultimo aggiornamento:** Gennaio 2025
 
-**© 2025 Andrea Bonacci — Tutti i diritti riservati**
+**© 2025-2026 Andrea Bonacci — Tutti i diritti riservati**
 
 [![English Version](https://img.shields.io/badge/🇬🇧_English_Version-4A90E2?style=flat-square)](./SECURITY.md) &nbsp; [![README](https://img.shields.io/badge/📖_README-009246?style=flat-square)](./README.md)

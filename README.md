@@ -334,7 +334,7 @@ Check out my other projects on **[GitHub](https://github.com/AndreaBonn)** too.
 
 ---
 
-**© 2025 Andrea Bonacci — All Rights Reserved**
+**© 2025-2026 Andrea Bonacci — All Rights Reserved**
 
 [![Versione Italiana](https://img.shields.io/badge/🇮🇹_Versione_Italiana-009246?style=flat-square)](./README_IT.md) &nbsp; [![Security Policy](https://img.shields.io/badge/🔒_Security-green?style=flat-square)](./SECURITY.md)
 
