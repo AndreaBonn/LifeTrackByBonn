@@ -18,6 +18,7 @@ Installabile come app &nbsp;·&nbsp; Sincronizzazione cloud &nbsp;·&nbsp; Funzi
 
 - [Cos'è Life Tracker](#cosè-life-tracker)
 - [A cosa serve](#a-cosa-serve)
+- [Screenshot](#screenshot)
 - [Come si usa](#come-si-usa)
 - [Funzionalità principali](#funzionalità-principali)
 - [Tecnologie](#tecnologie)
@@ -33,6 +34,12 @@ Installabile come app &nbsp;·&nbsp; Sincronizzazione cloud &nbsp;·&nbsp; Funzi
 **Life Tracker** è una Progressive Web App (PWA) gratuita e completa per il monitoraggio della salute personale. Registra peso, sonno, calorie, passi, parametri vitali, pasti e medicine in un'unica applicazione, accessibile da qualsiasi dispositivo senza installare nulla.
 
 Ogni dato inserito viene analizzato automaticamente per offrirti **insights personalizzati**, **correlazioni tra le tue abitudini** e **suggerimenti concreti** per migliorare il tuo benessere.
+
+<div align="center">
+
+<img src="./docs/assets/dashboard.png" alt="Dashboard di Life Tracker: monitoraggio del peso con grafico di andamento, BMI e insight" width="820">
+
+</div>
 
 ---
 
@@ -57,6 +64,25 @@ Life Tracker è pensato per chi vuole:
 - **Sincronizzazione Google Fit** - i dati del tuo telefono arrivano in automatico
 - **Funziona ovunque** - su smartphone, tablet e desktop, anche offline
 - **Gratuito e senza limiti** - nessun abbonamento, nessuna pubblicità
+
+---
+
+## Screenshot
+
+<table>
+  <tr>
+    <td align="center" width="50%"><img src="./docs/assets/login.png" alt="Schermata di accesso e registrazione" width="420"><br><sub>Accesso e registrazione</sub></td>
+    <td align="center" width="50%"><img src="./docs/assets/heart-rate.png" alt="Grafico dei battiti cardiaci medi giornalieri" width="420"><br><sub>Battiti cardiaci, media giornaliera</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="50%"><img src="./docs/assets/sleep.png" alt="Grafico dell'andamento delle ore di sonno" width="420"><br><sub>Andamento ore di sonno</sub></td>
+    <td align="center" width="50%"><img src="./docs/assets/steps.png" alt="Grafico dei passi giornalieri con linea obiettivo" width="420"><br><sub>Passi giornalieri con obiettivo</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="50%"><img src="./docs/assets/calories.png" alt="Grafico dell'andamento delle calorie bruciate" width="420"><br><sub>Calorie bruciate</sub></td>
+    <td align="center" width="50%"><img src="./docs/assets/mobile.png" alt="Layout mobile della dashboard del peso" width="240"><br><sub>Layout mobile</sub></td>
+  </tr>
+</table>
 
 ---
 

@@ -18,6 +18,7 @@ Installable as app &nbsp;·&nbsp; Cloud sync &nbsp;·&nbsp; Works offline
 
 - [What is Life Tracker](#what-is-life-tracker)
 - [What it's for](#what-its-for)
+- [Screenshots](#screenshots)
 - [How to use it](#how-to-use-it)
 - [Key features](#key-features)
 - [Technologies](#technologies)
@@ -33,6 +34,12 @@ Installable as app &nbsp;·&nbsp; Cloud sync &nbsp;·&nbsp; Works offline
 **Life Tracker** is a free and comprehensive Progressive Web App (PWA) for personal health monitoring. Track your weight, sleep, calories, steps, vital parameters, meals, and medications in one application, accessible from any device with no installation required.
 
 Every piece of data you enter is automatically analyzed to provide **personalized insights**, **correlations between your habits**, and **concrete suggestions** to improve your well-being.
+
+<div align="center">
+
+<img src="./docs/assets/dashboard.png" alt="Life Tracker dashboard: weight tracking with trend chart, BMI, and insights" width="820">
+
+</div>
 
 ---
 
@@ -57,6 +64,25 @@ Life Tracker is designed for those who want to:
 - **Google Fit sync** - data from your phone arrives automatically
 - **Works everywhere** - on smartphones, tablets, and desktops, even offline
 - **Free and unlimited** - no subscription, no ads
+
+---
+
+## Screenshots
+
+<table>
+  <tr>
+    <td align="center" width="50%"><img src="./docs/assets/login.png" alt="Sign in and sign up screen" width="420"><br><sub>Sign in and sign up</sub></td>
+    <td align="center" width="50%"><img src="./docs/assets/heart-rate.png" alt="Daily average heart rate chart" width="420"><br><sub>Heart rate, daily average</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="50%"><img src="./docs/assets/sleep.png" alt="Sleep hours trend chart" width="420"><br><sub>Sleep hours trend</sub></td>
+    <td align="center" width="50%"><img src="./docs/assets/steps.png" alt="Daily steps chart with goal line" width="420"><br><sub>Daily steps with goal</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="50%"><img src="./docs/assets/calories.png" alt="Calories burned trend chart" width="420"><br><sub>Calories burned</sub></td>
+    <td align="center" width="50%"><img src="./docs/assets/mobile.png" alt="Mobile layout of the weight dashboard" width="240"><br><sub>Mobile layout</sub></td>
+  </tr>
+</table>
 
 ---
 
