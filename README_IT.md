@@ -320,6 +320,14 @@ Per maggiori dettagli, consulta il file [LICENSE.md](./LICENSE.md).
 
 ---
 
+## 💖 Sostieni il progetto
+
+Life Tracker è gratuita. Se ti è utile e vuoi contribuire, puoi lasciare un'offerta tramite PayPal. L'importo lo scegli tu ed è del tutto facoltativo.
+
+[![Dona con PayPal](https://img.shields.io/badge/Dona-PayPal-00457C?logo=paypal&logoColor=white&style=for-the-badge)](https://paypal.me/AndreaBonacci19)
+
+---
+
 <div align="center">
 
 ### 👉 [APRI LIFE TRACKER](https://personal-health-by-bonn.web.app) 👈
