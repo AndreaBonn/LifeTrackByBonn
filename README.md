@@ -71,6 +71,9 @@ Life Tracker is designed for those who want to:
 
 <table>
   <tr>
+    <td colspan="2" align="center"><img src="./docs/assets/insights.png" alt="Automatic insights: weekly analysis, monthly trend, progress speed, and plateau detection" width="560"><br><sub>Automatic insights and trends from your data</sub></td>
+  </tr>
+  <tr>
     <td align="center" width="50%"><img src="./docs/assets/login.png" alt="Sign in and sign up screen" width="420"><br><sub>Sign in and sign up</sub></td>
     <td align="center" width="50%"><img src="./docs/assets/heart-rate.png" alt="Daily average heart rate chart" width="420"><br><sub>Heart rate, daily average</sub></td>
   </tr>

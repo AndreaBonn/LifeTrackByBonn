@@ -71,6 +71,9 @@ Life Tracker è pensato per chi vuole:
 
 <table>
   <tr>
+    <td colspan="2" align="center"><img src="./docs/assets/insights.png" alt="Insight automatici: analisi settimanale, andamento mensile, velocità di progresso e rilevamento plateau" width="560"><br><sub>Insight e tendenze automatiche dai tuoi dati</sub></td>
+  </tr>
+  <tr>
     <td align="center" width="50%"><img src="./docs/assets/login.png" alt="Schermata di accesso e registrazione" width="420"><br><sub>Accesso e registrazione</sub></td>
     <td align="center" width="50%"><img src="./docs/assets/heart-rate.png" alt="Grafico dei battiti cardiaci medi giornalieri" width="420"><br><sub>Battiti cardiaci, media giornaliera</sub></td>
   </tr>
